@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sijad",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@apollo/server": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "faunadb": "^4.7.1",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "install": "^0.13.0"
+  }
+}
